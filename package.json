@@ -2,7 +2,7 @@
 {
   "name": "personalportfolio",
   "version": "0.1.0",
-  "Homepage": "https://https://samcharacter.github.io/" ,
+  "Homepage": "https://https://samcharacterpublic.github.io/" ,
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.3",
